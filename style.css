@@ -430,8 +430,8 @@ header .follow a:hover{
 }
 
 .project .box-container .box:hover img{
-    height:75%;
-    width:75%;
+    height:77%;
+    width:85%;
 }
 
 .project .box-container .box h3{
@@ -615,10 +615,6 @@ header .follow a:hover{
 
     .project .box-container .box{
         width:100%;
-    }
-
-    .contact .row form{
-        margin:3rem 0;
     }
 
  }
